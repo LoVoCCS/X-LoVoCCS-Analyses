@@ -1,3 +1,8 @@
+# Project specific ignores
+xga_output
+.ipynb_checkpoint
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
