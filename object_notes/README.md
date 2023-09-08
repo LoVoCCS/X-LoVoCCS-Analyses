@@ -1,0 +1,1 @@
+This part of the repository contains notes and information on both the galaxy clusters in the LoVoCCS sample, and the other X-ray sources that are relevant to those clusters; i.e. they are members or background sources
