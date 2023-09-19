@@ -1,0 +1,1 @@
+Here we store any figures generated during our analyses of the X-ray emission of the LoVoCCS clusters
