@@ -1,6 +1,7 @@
 # Project specific ignores
 xga_output
 .ipynb_checkpoint
+not_for_github
 
 
 # Byte-compiled / optimized / DLL files
