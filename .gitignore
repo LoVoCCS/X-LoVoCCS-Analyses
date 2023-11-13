@@ -1,6 +1,7 @@
 # Project specific ignores
 xga_output
 .ipynb_checkpoint
+*noupload*
 
 
 # Byte-compiled / optimized / DLL files
