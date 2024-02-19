@@ -2,7 +2,7 @@
 xga_output
 .ipynb_checkpoint
 *noupload*
-
+not_for_github
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
