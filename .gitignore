@@ -4,6 +4,7 @@ xga_output
 *noupload*
 not_for_github
 .DS_Store
+*.core*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
