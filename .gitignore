@@ -1,5 +1,5 @@
 # Project specific ignores
-xga_output
+*xga_output*
 .ipynb_checkpoint
 *noupload*
 not_for_github
