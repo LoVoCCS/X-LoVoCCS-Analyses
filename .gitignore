@@ -6,6 +6,7 @@ not_for_github
 .DS_Store
 *core.*
 xmm_wcs-matched_wlmap_fits
+aperture_mass_maps
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
