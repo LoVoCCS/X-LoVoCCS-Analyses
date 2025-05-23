@@ -1,10 +1,12 @@
 # Project specific ignores
-xga_output
+*xga_output*
 .ipynb_checkpoint
 *noupload*
 not_for_github
 .DS_Store
 *core.*
+xmm_wcs-matched_wlmap_fits
+*M_ap_SNR*fits
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

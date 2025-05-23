@@ -24,6 +24,25 @@ m_norm = Quantity(1e+14, 'Msun')
 mgas_norm = Quantity(1e+13, 'Msun')
 
 
+def haversine(ra1, dec1, ra2, dec2):
+    """
+    Simple function to calculate the Haversine distance between two coordinates.
+
+    :param ra1: The RA of the first coordinate.
+    :param dec1: The declination of the first coordinate.
+    :param ra2: The RA of the second coordinate.
+    :param dec2: The declination of the second coordinate.
+    """
+    hav_sep = 2 * np.arcsin(np.sqrt((np.sin(((dec1*(np.pi / 180))-(dec2*(np.pi / 180))) / 2) ** 2)
+                                    + np.cos((dec2 * (np.pi / 180))) * np.cos(dec1 * (np.pi / 180))
+                                    * np.sin(((ra1*(np.pi / 180)) - (ra2*(np.pi / 180))) / 2) ** 2))
+    # Converting back to degrees from radians
+    hav_sep /= (np.pi / 180)
+    hav_sep = Quantity(hav_sep, 'deg').to('arcmin')
+    
+    return hav_sep
+
+
 def leave_one_jackknife(full_samp, full_relation, y_cols=['Mhy500_wraderr', 'Mhy500_wraderr-', 'Mhy500_wraderr+'], 
                         x_cols=['Tx_500', 'Tx_500-','Tx_500+'], y_name=r"$E(z)M^{\rm{tot}}_{500}$", 
                         x_name=r"$T_{\rm{X,500}}$", dim_hubb_ind=1, y_mult=1e+14, x_mult=1, 
