@@ -61,8 +61,8 @@ LoVoCCS-98,98,98,XMM,195.98,0.5-2.0keV,6.23kpc/pix,S,+BCP+Sp+SD+PU+Ta,"Complex..
 LoVoCCS-99,99,99,XMM,165.72,0.5-2.0keV,4.62kpc/pix,LFB,,
 LoVoCCS-108,108,108,,,,,,,
 LoVoCCS-119,119,119,XMM,369.61,0.5-2.0keV,8.63kpc/pix,CeP,,Really strong core
-LoVoCCS-121,121,121,XMM,290.09,0.5-2.0keV,5.16kpc/pix,,,
+LoVoCCS-121,121,121,XMM,290.09,0.5-2.0keV,5.16kpc/pix,MM,+NC2+PU+OI,"Fairly straightforward multi-modal morphology, but physically complicated. North-eastern (up and right) extended source that makes up the other component of the multi-modal distribution is likely a cluster at a much higher redshift (z~0.44). Seems to have a little substructure (hence OI) almost directly east (left) of LoVoCCS-121 central coordinate (at [52.7990339 -52.6002847]; z~0.056)"
 LoVoCCS-122,122,122,,,,,,,
 LoVoCCS-123,123,123,XMM,151.62,0.5-2.0keV,4.54kpc/pix,CeP,,
 LoVoCCS-131,131,131,XMM,100.18,0.5-2.0keV,7.33kpc/pix,LFB,,
-LoVoCCS-134,134,134,XMM,100.58,0.5-2.0keV,6.12kpc/pix,LFB,,
+LoVoCCS-134,134,134,XMM,100.58,0.5-2.0keV,6.12kpc/pix,LFB,+OI,"Close [329.5401, -60.2453] faint extended source (hence OI); it is associated with the cluster (coincides with one of the BCG candidates manually selected for this system (BCG3, though that may change)."
