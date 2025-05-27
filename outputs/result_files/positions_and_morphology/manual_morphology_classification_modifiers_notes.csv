@@ -1,68 +1,68 @@
 name,LoVoCCSID,parent_LoVoCCSID,telescope_examined,SNR,examined_energy_band,proper_dist_resolution,morph_class,morph_class_modifiers,morph_notes
-LoVoCCS-1,1,1,xmm,1686.73,0.5-2.0keV,6.24kpc/pix,CeP,+Pl,
-LoVoCCS-2,2,2,,,,,,,
-LoVoCCS-4A,4A,4,,,,,,,
+LoVoCCS-1,1,1,XMM,1686.73,0.5-2.0keV,6.24kpc/pix,CeP,,
+LoVoCCS-2,2,2,XMM,310.37,0.5-2.0keV,6.04kpc/pix,S,+SD,SB discontinuity obvious to the bottom left (south-east) cluster
+LoVoCCS-4A,4A,4,XMM,1958.89,0.5-2.0keV,4.63kpc/pix,CeP,+Pl+OI,"Two outer islands, one to the south (with irregular structure) and one to the west-south-west of the main cluster"
 LoVoCCS-4B,4B,4,,,,,,,
-LoVoCCS-5,5,5,,,,,,,
-LoVoCCS-7,7,7,,,,,,,
-LoVoCCS-9,9,9,,,,,,,
-LoVoCCS-10,10,10,,,,,,,
-LoVoCCS-11,11,11,,,,,,,
-LoVoCCS-12,12,12,,,,,,,
-LoVoCCS-13,13,13,,,,,,,
-LoVoCCS-14,14,14,,,,,,,
-LoVoCCS-15,15,15,,,,,,,
-LoVoCCS-18,18,18,,,,,,,
-LoVoCCS-21,21,21,,,,,,,
-LoVoCCS-22,22,22,,,,,,,
-LoVoCCS-24,24,24,,,,,,,
-LoVoCCS-26,26,26,,,,,,,
-LoVoCCS-27,27,27,,,,,,,
-LoVoCCS-28,28,28,,,,,,,
-LoVoCCS-29,29,29,,,,,,,
-LoVoCCS-30,30,30,,,,,,,
-LoVoCCS-31,31,31,,,,,,,
+LoVoCCS-5,5,5,XMM,854.47,0.5-2.0keV,4.64kpc/pix,S,+SD+PU+Ta,"A3667, famously complicated morphology."
+LoVoCCS-7,7,7,XMM,363.38,0.5-2.0keV,7.79kpc/pix,S,+SD,"Would have been 'R', but for the apparent sharp-ish drop in surface brightness around much of the left (east) side - it is possible this is an instrumental effect."
+LoVoCCS-9,9,9,XMM,1551.72,0.5-2.0keV,4.89kpc/pix,S,+PU+SD+OI,"Similarities to LoVoCCS-5; large and puffy but with clear structure in the middle; OI directly to the right (west) of central coordinate, part of but slightly extending from main emission"
+LoVoCCS-10,10,10,XMM,254.51,0.5-2.0keV,6.82kpc/pix,R,,
+LoVoCCS-11,11,11,XMM,867.04,0.5-2.0keV,4.53kpc/pix,S,+PU+Ta+SD,"'Tail' is below (south) the body of the emission, quite unusual structure but instrumental effects could be contributing; Overall quite similar in classification to LoVoCCS-5."
+LoVoCCS-12,12,12,XMM,799.0,0.5-2.0keV,3.32kpc/pix,R,+SD,Slight sharp drop near core
+LoVoCCS-13,13,13,XMM,1350.68,0.5-2.0keV,6.13kpc/pix,CeP,+OI+Ta,"Outer island to the south of the centre of the ICM; Tail less certain but to the south-west, may be a misinterpretation of another emission blob that doesn't quite qualify as an outer island."
+LoVoCCS-14,14,14,XMM,214.15,0.5-2.0keV,5.91kpc/pix,S,+PU+SD,"Nearly classified as LFB, but there it isn't entirely flat in brightness; sharp drop to the left (east) of main centre, possibly partially an instrumental effect"
+LoVoCCS-15,15,15,XMM,1013.9,0.5-2.0keV,6.87kpc/pix,CeP,,A2597 - hugely powerful cool-core cluster. Small extended emission to the north-north-east (upper left) of the cluster is a higher redshift (z~0.5) cluster.
+LoVoCCS-18,18,18,XMM,499.71,0.5-2.0keV,6.82kpc/pix,S,+SD,"Strong central core emission, but not as extremely peaked as clusters we are labelling CeP; sharp drop to the left (east) of centre."
+LoVoCCS-21,21,21,XMM,683.52,0.5-2.0keV,4.04kpc/pix,S,+PU+SD,Similar to LoVoCCS-5 and LoVoCCS-9; sharp drop to the south-east (lower left) of centre; potential  tail extending upper right but not sure so didn't add modifier
+LoVoCCS-22,22,22,XMM,171.38,0.5-2.0keV,7.18kpc/pix,LFB,,Very VERY bright point source to the left (east) of centre - identified as a (likely) background AGN.
+LoVoCCS-24,24,24,XMM,315.86,0.5-2.0keV,7.51kpc/pix,S,+PU+Ta+Sp,"Very distinct tail feature that appears to be slightly curved, hence the Sp modifier."
+LoVoCCS-26,26,26,XMM,212.89,0.5-2.0keV,7.79kpc/pix,R,,
+LoVoCCS-27,27,27,XMM,441.29,0.5-2.0keV,4.9kpc/pix,S,+PU+SD,Very distinct sharp drop off to the left (east) of centre.
+LoVoCCS-28,28,28,XMM,319.24,0.5-2.0keV,6.24kpc/pix,S,+PU+Ta,"Apparent faint tail to the east north east (top right) of centre, though could be instrumental effect."
+LoVoCCS-29,29,29,XMM,277.95,0.5-2.0keV,8.5kpc/pix,R,,
+LoVoCCS-30,30,30,XMM,2487.32,0.5-2.0keV,4.5kpc/pix,CeP,+SD+OI,"Distinct sharp drop off associated with possible outer island to the north of centre, with sharp edge evident to the north-north east (just left and up) of centre."
+LoVoCCS-31,31,31,XMM,228.83,0.5-2.0keV,6.83kpc/pix,R,+PU,
 LoVoCCS-33,33,33,,,,,,,
-LoVoCCS-35,35,35,,,,,,,
-LoVoCCS-39,39,39,,,,,,,
-LoVoCCS-41A,41A,41,,,,,,,
-LoVoCCS-41B,41B,41,,,,,,,
+LoVoCCS-35,35,35,XMM,239.11,0.5-2.0keV,7.68kpc/pix,LFB,,Small extended source well outside extended emission to the south-south-west (lower right) near the edge of the FoV is a background cluster.
+LoVoCCS-39,39,39,XMM,167.26,0.5-2.0keV,8.08kpc/pix,CeP,,"THIS CLASS IS LIKELY WRONG AS THE CENTRAL EMISSION ORIGINATES FROM A POINT SOURCE; Extended source to the north-north-west (up and slightly right; [229.6332015, 6.4015550]), appears to be another cluster at similar redshift"
+LoVoCCS-41A,41A,41,XMM,197.64,0.5-2.0keV,6.87kpc/pix,R,+PU,"Outskirts intersect with LoVoCCS-41B, but not quite enough for a MM classification."
+LoVoCCS-41B,41B,41,XMM,123.83,0.5-2.0keV,6.87kpc/pix,LFB,,"Outskirts intersect with LoVoCCS-41A, but not quite enough for a MM classification. There is a small blob to the south-south-west (lower right) of the centre, which is a background cluster at z~0.56."
 LoVoCCS-41C,41C,41,,,,,,,
-LoVoCCS-42,42,42,,,,,,,
-LoVoCCS-45,45,45,,,,,,,
-LoVoCCS-46A,46A,46,,,,,,,
-LoVoCCS-46B,46B,46,,,,,,,
-LoVoCCS-46C,46C,46,,,,,,,
-LoVoCCS-48A,48A,48,,,,,,,
-LoVoCCS-48B,48B,48,,,,,,,
-LoVoCCS-49,49,49,,,,,,,
-LoVoCCS-51,51,51,,,,,,,
+LoVoCCS-42,42,42,XMM,209.43,0.5-2.0keV,6.19kpc/pix,LFB,+SD,Sharp-ish SB drop to the south-west (bottom right) of centre; possible tail to the east (left) but not certain enough to add modifier
+LoVoCCS-45,45,45,XMM,217.67,0.5-2.0keV,9.09kpc/pix,LFB,+SD,Southern (lower) edge of ICM seems to have a sharp SB drop
+LoVoCCS-46A,46A,46,XMM,207.67,0.5-2.0keV,7.26kpc/pix,MM,+NC2+BCP,"Multi-modal broad morphology classification shared with LoVoCCS-46C, the other contributor to the bimodal appearance. Unassociated extended source to the west (right) side of the FoV is another cluster at z~0.3."
+LoVoCCS-46B,46B,46,XMM,64.23,0.5-2.0keV,7.26kpc/pix,LFB,,Distinctly different morphology from the other two components of LoVoCCS-46
+LoVoCCS-46C,46C,46,XMM,213.71,0.5-2.0keV,7.26kpc/pix,MM,+NC2+BCP,"Multi-modal broad morphology classification shared with LoVoCCS-46A, the other contributor to the bimodal appearance"
+LoVoCCS-48A,48A,48,XMM,255.31,0.5-2.0keV,3.98kpc/pix,MM,+NC2+BCP+SD,"Shares MM classification with LoVoCCS-48B, which is the other contributor to the bimodal appearance. Has complex centre, very bright peaked core-like region and slightly extended bright region. Sharp drop to the west (right) of centre - possibly exacerbated by instrumental effect from coadding."
+LoVoCCS-48B,48B,48,XMM,129.61,0.5-2.0keV,4.16kpc/pix,MM,+NC2+BCP,"Shares MM classification with LoVoCCS-48A, which is the other contributor to the bimodal appearance. Very bright peaked core-like region."
+LoVoCCS-49,49,49,XMM,176.24,0.5-2.0keV,9.27kpc/pix,CeP,,"Definite point + possible extended emission from foreground (z~0.07) elliptical/group to the south-west (lower right; [175.2477, -12.3985])."
+LoVoCCS-51,51,51,XMM,174.4,0.5-2.0keV,7.58kpc/pix,CeP,,
 LoVoCCS-55,55,55,,,,,,,
-LoVoCCS-58,58,58,,,,,,,
-LoVoCCS-60A,60A,60,,,,,,,
-LoVoCCS-60B,60B,60,,,,,,,
-LoVoCCS-61,61,61,,,,,,,
-LoVoCCS-63,63,63,,,,,,,
-LoVoCCS-65,65,65,,,,,,,
-LoVoCCS-66A,66A,66,,,,,,,
-LoVoCCS-66B,66B,66,,,,,,,
-LoVoCCS-67,67,67,,,,,,,
-LoVoCCS-74,74,74,,,,,,,
-LoVoCCS-75,75,75,,,,,,,
-LoVoCCS-76,76,76,,,,,,,
-LoVoCCS-80,80,80,,,,,,,
-LoVoCCS-85,85,85,,,,,,,
-LoVoCCS-89,89,89,,,,,,,
-LoVoCCS-90,90,90,,,,,,,
-LoVoCCS-93A,93A,93,,,,,,,
-LoVoCCS-93B,93B,93,,,,,,,
-LoVoCCS-94,94,94,,,,,,,
-LoVoCCS-98,98,98,,,,,,,
-LoVoCCS-99,99,99,,,,,,,
+LoVoCCS-58,58,58,XMM,102.58,0.5-2.0keV,7.2kpc/pix,LFB,,"Directly south (down) of centre there is a very bright point source we have identified as the star 'AS Cap'; faint slightly extended source to the north-east (left and slightly up) of centre ([323.6770, -13.3910]) MAY be a background group, but redshift is not clear."
+LoVoCCS-60A,60A,60,XMM,253.4,0.5-2.0keV,7.23kpc/pix,LFB,,"Nearly a MM with LoVoCCS-60B, but the two distributions are distinguishable."
+LoVoCCS-60B,60B,60,XMM,277.73,0.5-2.0keV,7.23kpc/pix,S,+SD,"Nearly a MM with LoVoCCS-60A, but the two distributions are distinguishable. Apparent hard drop in SB along the western (right) edge of the ICM"
+LoVoCCS-61,61,61,XMM,393.6,0.5-2.0keV,8.43kpc/pix,S,+Ta+Sp+SD,"Unusual appearance; slightly narrowing tail to the north, with a curved edge (hence the Sp modifier); that curved edge is quite a sharp discontinuity in SB."
+LoVoCCS-63,63,63,XMM,231.25,0.5-2.0keV,9.18kpc/pix,R,+PU,
+LoVoCCS-65,65,65,XMM,211.13,0.5-2.0keV,3.86kpc/pix,LFB,+SD,Very low-z puffed up cloud; there appears to be a sharp drop in SB to the south.
+LoVoCCS-66A,66A,66,XMM,129.14,0.5-2.0keV,7.53kpc/pix,MM,+NC2+Pl+Ta+SD,Multi-modal with LoVoCCS-66B; has a relatively bright and large central region (somewhat similar to 'Regular' or 'Structured' classes (hence +Pl); seemingly quite a sharp drop in SB past that plateua; tail-like structure connecting to LoVoCCS-66B.
+LoVoCCS-66B,66B,66,XMM,77.61,0.5-2.0keV,7.53kpc/pix,MM,+NC2+BCP+SD,Multi-modal with LoVoCCS-66B; small bright core region; seeming sharp drop in SB around the lower edge
+LoVoCCS-67,67,67,XMM,1297.22,0.5-2.0keV,4.0kpc/pix,CeP,+SD,Has a z~0.94 background cluster at [359.0689 -34.6941]; an X-ray bright spiral at [] and z=0.0422 apparent as a small blob in the ICM emission; VERY powerful core; sharp edges in SB especially to the north and east (left); possible void but can't be sure with this data.
+LoVoCCS-74,74,74,XMM,112.43,0.5-2.0keV,8.38kpc/pix,LFB,,
+LoVoCCS-75,75,75,XMM,145.3,0.5-2.0keV,8.7kpc/pix,CeP,,Bright core is slightly elongated
+LoVoCCS-76,76,76,XMM,168.36,0.5-2.0keV,7.01kpc/pix,CeP,,
+LoVoCCS-80,80,80,XMM,169.54,0.5-2.0keV,6.88kpc/pix,R,+PU,
+LoVoCCS-85,85,85,XMM,140.09,0.5-2.0keV,8.52kpc/pix,R,,
+LoVoCCS-89,89,89,XMM,86.56,0.5-2.0keV,8.68kpc/pix,LFB,,
+LoVoCCS-90,90,90,XMM,77.77,0.5-2.0keV,6.61kpc/pix,LFB,,"Nearby-ish cluster at [227.6508, 6.2661], z~0.175"
+LoVoCCS-93A,93A,93,XMM,172.32,0.5-2.0keV,4.25kpc/pix,LFB,+Ta,Very close to LoVoCCS-93B; tail-like emission to the east (right) of centre apparently connecting to the elongated emission of LoVoCCS-93B
+LoVoCCS-93B,93B,93,XMM,143.55,0.5-2.0keV,4.24kpc/pix,S,+PU+Ta,"Very close to LoVoCCS-93A; nearly classed as LFB, but has a bright ish core, and elongation looks like a not quite finished merger"
+LoVoCCS-94,94,94,XMM,83.13,0.5-2.0keV,7.67kpc/pix,LFB,,
+LoVoCCS-98,98,98,XMM,195.98,0.5-2.0keV,6.23kpc/pix,S,+BCP+Sp+SD+PU+Ta,"Complex...; sharp edge to the south-west (lower right); bright core like to the west of centre; that along with previously mentioned sharp edge form a spiral-like, tail-like, structure; associated faint X-ray feature at [358.5828, -10.3252], in optical there is diffuse blue (at least in LS imagery) emission, and in UV there is extended emission (this collection of galaxies has MUSE data) "
+LoVoCCS-99,99,99,XMM,165.72,0.5-2.0keV,4.62kpc/pix,LFB,,
 LoVoCCS-108,108,108,,,,,,,
-LoVoCCS-119,119,119,,,,,,,
-LoVoCCS-121,121,121,,,,,,,
+LoVoCCS-119,119,119,XMM,369.61,0.5-2.0keV,8.63kpc/pix,CeP,,Really strong core
+LoVoCCS-121,121,121,XMM,290.09,0.5-2.0keV,5.16kpc/pix,,,
 LoVoCCS-122,122,122,,,,,,,
-LoVoCCS-123,123,123,,,,,,,
-LoVoCCS-131,131,131,,,,,,,
-LoVoCCS-134,134,134,,,,,,,
+LoVoCCS-123,123,123,XMM,151.62,0.5-2.0keV,4.54kpc/pix,CeP,,
+LoVoCCS-131,131,131,XMM,100.18,0.5-2.0keV,7.33kpc/pix,LFB,,
+LoVoCCS-134,134,134,XMM,100.58,0.5-2.0keV,6.12kpc/pix,LFB,,
