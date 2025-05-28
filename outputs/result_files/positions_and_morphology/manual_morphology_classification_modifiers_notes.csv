@@ -48,7 +48,7 @@ LoVoCCS-66A,66A,66,XMM,129.14,0.5-2.0keV,7.53kpc/pix,MM,+NC2+Pl+Ta+SD,Multi-moda
 LoVoCCS-66B,66B,66,XMM,77.61,0.5-2.0keV,7.53kpc/pix,MM,+NC2+BCP+SD,Multi-modal with LoVoCCS-66B; small bright core region; seeming sharp drop in SB around the lower edge
 LoVoCCS-67,67,67,XMM,1297.22,0.5-2.0keV,4.0kpc/pix,CeP,+SD,Has a z~0.94 background cluster at [359.0689 -34.6941]; an X-ray bright spiral at [] and z=0.0422 apparent as a small blob in the ICM emission; VERY powerful core; sharp edges in SB especially to the north and east (left); possible void but can't be sure with this data.
 LoVoCCS-74,74,74,XMM,112.43,0.5-2.0keV,8.38kpc/pix,LFB,,
-LoVoCCS-75,75,75,XMM,145.3,0.5-2.0keV,8.7kpc/pix,CeP,,Bright core is slightly elongated; small extended source to the west (right; [346.7510, -15.2466]) is apparent (no z available, but colours are more redshifted) higher-z cluster 
+LoVoCCS-75,75,75,XMM,145.3,0.5-2.0keV,8.7kpc/pix,CeP,,"Bright core is slightly elongated; small extended source to the west (right; [346.7510, -15.2466]) is apparent (no z available, but colours are more redshifted) higher-z cluster"
 LoVoCCS-76,76,76,XMM,168.36,0.5-2.0keV,7.01kpc/pix,CeP,,
 LoVoCCS-80,80,80,XMM,169.54,0.5-2.0keV,6.88kpc/pix,R,+PU,
 LoVoCCS-85,85,85,XMM,140.09,0.5-2.0keV,8.52kpc/pix,R,,
